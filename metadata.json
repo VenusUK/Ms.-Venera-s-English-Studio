@@ -1,0 +1,6 @@
+{
+  "name": "Ms. Venera's English Learning Studio",
+  "description": "Comprehensive English teaching and learning platform for Ms. Venera: student rostering, daily assignment tracking, interactive reading texts with comprehension & vocabulary checks, reading responses, and grammar review & tests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
